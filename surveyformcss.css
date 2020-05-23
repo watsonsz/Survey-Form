@@ -1,1 +1,14 @@
 //CSS stylesheet for surveyform.html
+<link href="https://fonts.googleapis.com/css2?family=Caladea&display=swap" rel="stylesheet">
+textarea {width:500px; height:150px;}
+#number{width:150px;}
+#information{font-size:20px}
+.box{margin-left:300px; margin-right:300px; padding:35px; background-image:url("gunmetal.jpg"); border-style: solid; border-width: 2px;
+ border-color:whitesmoke;opacity:90%;}
+body { background-image: url("GrKI8m1.png");
+  background-repeat: no-repeat;
+  background-position: fixed;
+  background-size: cover;
+  font-family: Caladea, monospace;
+  color:whitesmoke;
+  text-align: center}
